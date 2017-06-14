@@ -1,2 +1,6 @@
 Mars is not as red as I thought.
+<<<<<<< HEAD
 
+=======
+Mars is my fav
+>>>>>>> 58bd6740a33a0980c62527f851cf8ab787bbb2a7
