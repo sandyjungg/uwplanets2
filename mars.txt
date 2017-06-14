@@ -1,7 +1,8 @@
+It is pretty cool. I' going to delete the test 4 from below, you shouldn't see it any more
+.
 Coding is so cool, I hope we become pros 
 
 Grettings I hope this works, its pretty cool!!!
-test 4
 Mars is not as red as I thought.
 <<<<<<< HEAD
 
