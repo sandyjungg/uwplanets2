@@ -1,3 +1,4 @@
+Grettings I hope this works, its pretty cool!!!
 test 4
 Mars is not as red as I thought.
 <<<<<<< HEAD
